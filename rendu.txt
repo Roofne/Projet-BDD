@@ -1,0 +1,39 @@
+Language : PL-SQL
+Vues : Python , Web
+
+
+1) Conception
+
+Livre :
+- auteur : STRING
+- titre : STRING
+- editeur : STRING 
+- année publication : DATE
+- editions [] tab ?
+
+domaines : informatique, mathématiques, politiques
+sous-domaines : web, bases de données, programation	
+
+USER : employé (emprunteur) , bibliothécaire
+
+a)
+MCD : Modele de Conceptueldes Données
+
+
+b)
+c)
+
+
+
+2) 
+
+Actions
+- fonction gestion des emprunteur (add, remove)
+- procedure limite nb emprunt 
+- procedure limite délai emprunt
+- procedure limite emprunt double
+- vue liste emprunt en cours
+- vue liste emprunt e retard
+- vue détail livre
+
+
